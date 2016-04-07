@@ -1,2 +1,15 @@
 
 Sunday March 27: Starting to use and get used to Github Which will be our main means of collaboration for this projet 
+                -Learning how to use git with Kubuntu 
+                -Uploading files to Github 
+
+Thursday April 7: We still havent started but we have put all necessary structures necessary for collaboration
+                 -Started reading the Project 
+                 -Created both Collider cpp and hpp 
+                 -Created getters and setters but we have trouble understanding how we should compile 
+                 -Started learning how to use scons which we will use to compile multiple executables
+                 -Learned how to use scons
+                 -Programmed Colliders constructer, destructer and copy constructeur 
+                 -still having trouble compiling
+                 -Answering questions in the meanwhile 
+We havent concretely done much but we are up to date with the Mooc meaning that hopefully when we do start, conceptually we wont have and problems.
